@@ -1,0 +1,22 @@
+header
+{
+	height: 25vh;
+	background: url(bg.jpg) no-repeat center ;
+	background-size: auto;
+	margin-bottom: 0px;
+}
+
+img
+{
+	width: 100px;
+	height: 100px;
+	display: block;
+	margin-top: 10px;
+}
+
+#logo
+{
+	width: 250px;
+	height: 200px;
+}
+
